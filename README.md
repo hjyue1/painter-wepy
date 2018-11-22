@@ -45,7 +45,6 @@ export default class Index extends wepy.page {
     }
     methods = {
         onImgOK(e) {
-            wepy.hideLoading();
             this.imgUrl = e.path
             this.$apply();
         }
