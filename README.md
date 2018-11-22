@@ -1,7 +1,5 @@
-##小程序生成图片库[Painter]的Wepy版本
-[Painter]: https://github.com/Kujiale-Mobile/Painter
-
-###安装
+## 小程序生成图片库[Painter]的Wepy版本
+### 安装
 ```bash
     npm install painter-wepy --save
 ```
@@ -54,3 +52,6 @@ export default class Index extends wepy.page {
     }
 }
 ```
+
+
+[Painter]: https://github.com/Kujiale-Mobile/Painter
