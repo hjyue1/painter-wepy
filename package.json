@@ -1,0 +1,17 @@
+{
+  "name": "painter-wepy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/painter-wepy.wpy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hjyue1@163.com",
+  "keywords": [
+    "wepy",
+    "painter"
+  ],
+  "devDependencies": {
+  },
+  "license": "MIT"
+}
