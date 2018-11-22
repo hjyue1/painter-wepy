@@ -1,5 +1,4 @@
 demo
-src
 jest
 README.md
 README-zh_CN.md
@@ -9,3 +8,4 @@ jest.config.js
 package-lock.json
 yarn.lock
 .vscode
+tool

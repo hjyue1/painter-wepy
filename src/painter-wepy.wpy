@@ -6,10 +6,10 @@
 
 <script>
 import wepy from "wepy";
-import Pen from "../tool/pen";
-import Downloader from "../tool/downloader";
+import Pen from "../lib/pen";
+import Downloader from "../lib/downloader";
 
-const util = require("../tool/util");
+const util = require("../lib/util");
 
 const downloader = new Downloader();
 // 最大尝试的绘制次数
