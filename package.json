@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "hjyue1@163.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hjyue1/painter-wepy"
+  },
   "keywords": [
     "wepy",
     "painter"
