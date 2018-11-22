@@ -21,6 +21,9 @@ import wepy from 'wepy';
 import painter from 'painter-wepy'
 
 export default class Index extends wepy.page {
+    components = {
+        painter,
+    };
     data = {
         palette: {
             {
