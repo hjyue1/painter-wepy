@@ -1,8 +1,8 @@
 {
   "name": "painter-wepy",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
-  "main": "./src/painter-wepy.wpy",
+  "main": "lib/painter-wepy.wpy",
   "scripts": {
     "build": "babel ./tool --out-dir lib",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +21,8 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^8.0.2",
     "babel-preset-es2015": "^6.24.1",
-    "babel-preset-stage-0": "^6.24.1"
+    "babel-preset-stage-0": "^6.24.1",
+    "wepy": "^1.7.2"
   },
   "license": "MIT"
 }
