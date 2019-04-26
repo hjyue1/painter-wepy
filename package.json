@@ -1,8 +1,8 @@
 {
   "name": "painter-wepy",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
-  "main": "lib/painter-wepy.wpy",
+  "main": "index.js",
   "scripts": {
     "build": "babel ./tool --out-dir lib",
     "test": "echo \"Error: no test specified\" && exit 1"
